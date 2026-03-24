@@ -25,24 +25,48 @@ Me gusta todo lo delicado y creativo, y mis colores favoritos son los **celestes
 ## Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,androidstudio,arduino,python,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,androidstudio,arduino,python,github,vscode,mysql" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
 ---
 
 ## Proyectos destacados
 
-- <a href="https://github.com/yulisolarioporto-cloud/EcoMarket"><img src="https://img.shields.io/badge/EcoMarket-Web-B3E5FC?style=flat-square"></a>  
-  Tienda naturista en línea con carrito de compras y formulario dinámico.
+<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-- <a href="https://github.com/yulisolarioporto-cloud/FlappyBird"><img src="https://img.shields.io/badge/FlappyBird-Greenfoot-E1F5FE?style=flat-square"></a>  
-  Juego interactivo con incremento progresivo de dificultad en Greenfoot.
+  <div style="background: linear-gradient(135deg, #B3E5FC, #E1F5FE); border-radius:12px; padding:20px; width:280px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: all 0.3s;" 
+       onmouseover="this.style.background='linear-gradient(135deg, #81D4FA, #B3E5FC)'; this.style.transform='translateY(-5px) scale(1.05)'" 
+       onmouseout="this.style.background='linear-gradient(135deg, #B3E5FC, #E1F5FE)'; this.style.transform='translateY(0) scale(1)'">
+    <h3>EcoMarket</h3>
+    <img src="https://img.shields.io/badge/EcoMarket-Web-B3E5FC?style=flat-square" alt="EcoMarket">
+    <p>Tienda naturista en línea con carrito de compras y formulario dinámico.</p>
+  </div>
 
-- <a href="https://github.com/yulisolarioporto-cloud/SistemaHospitalario"><img src="https://img.shields.io/badge/SistemaHospitalario-Java-B3E5FC?style=flat-square"></a>  
-  Registro de pacientes, historia clínica electrónica y control de admisiones.
+  <div style="background: linear-gradient(135deg, #E1F5FE, #B3E5FC); border-radius:12px; padding:20px; width:280px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: all 0.3s;" 
+       onmouseover="this.style.background='linear-gradient(135deg, #B3E5FC, #81D4FA)'; this.style.transform='translateY(-5px) scale(1.05)'" 
+       onmouseout="this.style.background='linear-gradient(135deg, #E1F5FE, #B3E5FC)'; this.style.transform='translateY(0) scale(1)'">
+    <h3>Flappy Bird</h3>
+    <img src="https://img.shields.io/badge/FlappyBird-Greenfoot-E1F5FE?style=flat-square" alt="FlappyBird">
+    <p>Juego interactivo con incremento progresivo de dificultad en Greenfoot.</p>
+  </div>
 
-- <a href="https://github.com/yulisolarioporto-cloud/RegistroAutos"><img src="https://img.shields.io/badge/RegistroAutos-AndroidStudio-E1F5FE?style=flat-square"></a>  
-  Registro y gestión de parámetros de vehículos en Android Studio.
+  <div style="background: linear-gradient(135deg, #B3E5FC, #E1F5FE); border-radius:12px; padding:20px; width:280px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: all 0.3s;" 
+       onmouseover="this.style.background='linear-gradient(135deg, #81D4FA, #B3E5FC)'; this.style.transform='translateY(-5px) scale(1.05)'" 
+       onmouseout="this.style.background='linear-gradient(135deg, #B3E5FC, #E1F5FE)'; this.style.transform='translateY(0) scale(1)'">
+    <h3>Sistema Hospitalario</h3>
+    <img src="https://img.shields.io/badge/SistemaHospitalario-Java-B3E5FC?style=flat-square" alt="SistemaHospitalario">
+    <p>Registro de pacientes, historia clínica electrónica y control de admisiones.</p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #E1F5FE, #B3E5FC); border-radius:12px; padding:20px; width:280px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: all 0.3s;" 
+       onmouseover="this.style.background='linear-gradient(135deg, #B3E5FC, #81D4FA)'; this.style.transform='translateY(-5px) scale(1.05)'" 
+       onmouseout="this.style.background='linear-gradient(135deg, #E1F5FE, #B3E5FC)'; this.style.transform='translateY(0) scale(1)'">
+    <h3>Registro de Autos</h3>
+    <img src="https://img.shields.io/badge/RegistroAutos-AndroidStudio-E1F5FE?style=flat-square" alt="RegistroAutos">
+    <p>Registro y gestión de parámetros de vehículos en Android Studio.</p>
+  </div>
+
+</div>
 
 ---
 
