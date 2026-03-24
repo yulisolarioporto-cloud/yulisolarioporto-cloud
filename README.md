@@ -1,6 +1,7 @@
-<!-- Banner superior -->
-<div align="center">
-  <h1 style="color:#8A2BE2;">🌷 ¡Hola! Soy Yuliana Solari Oporto</h1>
+<!-- Banner superior con fondo beige y detalles marrón -->
+<div align="center" style="background-color:#F5F5DC; border-radius:12px; padding:20px;">
+  <h1 style="color:#8B4513;">🌷 ¡Hola! Soy Yuliana Solari Oporto</h1>
+  <p style="color:#5C4033;">Estudiante de Ingeniería de Software | Apasionada por la programación y la tecnología</p>
 </div>
 
 ---
@@ -48,10 +49,10 @@
 
 ---
 
-<!-- Footer -->
-<div align="center">
-  <h3 style="color:#8A2BE2;">¡Gracias por visitar mi perfil! 💜</h3>
-  <p>¿Te gustaría colaborar conmigo? ¡Escríbeme por GitHub!</p>
+<!-- Footer con fondo beige y marrón -->
+<div align="center" style="background-color:#F5F5DC; border-radius:12px; padding:15px; margin-top:20px;">
+  <h3 style="color:#8B4513;">¡Gracias por visitar mi perfil! 💜</h3>
+  <p style="color:#5C4033;">¿Te gustaría colaborar conmigo? ¡Escríbeme por GitHub!</p>
 </div>
 
 ---
