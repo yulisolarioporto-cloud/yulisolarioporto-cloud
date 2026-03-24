@@ -1,23 +1,16 @@
-<!-- Banner superior elegante con degradado morado -->
-<div align="center" style="background: linear-gradient(90deg, #6A0DAD, #9B59B6); border-radius:16px; padding:30px; color:white;">
-  <h1 style="font-family: 'Segoe UI', sans-serif; font-weight:bold; font-size:2.5em;">¡Hola! Soy Yuliana Solari Oporto</h1>
-  <p style="font-family: 'Segoe UI', sans-serif; font-size:1.2em; margin-top:10px;">
-    Estudiante de Ingeniería de Software | Apasionada por la programación y la tecnología
-  </p>
-  <div style="margin-top:20px;">
-    <img src="https://img.shields.io/badge/Software-Development-8E44AD?style=for-the-badge&logo=visual-studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tech-Enthusiast-9B59B6?style=for-the-badge&logoColor=white" />
-  </div>
-</div>
+<!-- BANNER SUPERIOR ESTILO CAPSULE (BEIGE) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5DC,100:E6D8AD&height=200&section=header&text=Yuliana%20Solari%20Oporto&fontSize=35&fontColor=8B4513&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 ---
 
 ## Sobre mí
 <div style="background-color:#F3E5F5; border-left:6px solid #6A0DAD; border-radius:8px; padding:15px; margin-bottom:20px;">
-  Soy estudiante de Ingeniería de Software en SENATI, apasionada por la programación, desarrollo web y aplicaciones móviles.  
-  Me adapto y aprendo rápido, siempre lista para nuevos desafíos.  
-  Disfruto crear soluciones prácticas, didácticas y visualmente atractivas.  
-  Mi color favorito es el morado, reflejado en algunos de mis proyectos.
+Soy estudiante de Ingeniería de Software en SENATI, apasionada por la programación, desarrollo web y aplicaciones móviles.  
+Me adapto y aprendo rápido, siempre lista para nuevos desafíos.  
+Disfruto crear soluciones prácticas, didácticas y visualmente atractivas.  
+Mi color favorito es el morado, reflejado en algunos de mis proyectos.
 </div>
 
 ---
@@ -74,7 +67,7 @@
 <div style="background-color:#F3E5F5; border-left:6px solid #6A0DAD; border-radius:8px; padding:15px; margin-bottom:20px;">
 Siempre busco crecer y aprender algo nuevo.  
 Me encanta la tecnología y explorar innovaciones.  
-Mi color favorito es el morado, reflejado en algunos de mis proyectos.  
+Mi color favorito es el morado, reflejado en algunos de mis proyectos.
 </div>
 
 ---
