@@ -1,50 +1,49 @@
-# 🌸 Hola, soy Yuliana Solari Oporto! 🌸
+# 👩‍💻 Yuliana Solari Oporto
 
-💻 **Estudiante de Ingeniería de Software en SENATI**  
-🎯 Apasionada por la programación, desarrollo web y apps móviles.  
-🌱 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades.
+**Estudiante de Ingeniería de Software en SENATI**  
+Apasionada por la programación, desarrollo web y aplicaciones móviles. Siempre en constante aprendizaje y mejora profesional.  
 
 ---
 
 ## 🛠️ Habilidades
 
-✨ **Lenguajes de programación:**  
+**Lenguajes de programación:**  
 `Java` `JavaScript` `HTML` `CSS`  
 
-✨ **Frameworks / Tecnologías:**  
+**Frameworks y tecnologías:**  
 `Android Studio` `Greenfoot` `GitHub` `MySQL`  
 
-✨ **Otros:**  
-- Desarrollo de interfaces interactivas  
-- Proyectos web didácticos y visualmente atractivos  
+**Otros:**  
+- Desarrollo de interfaces intuitivas y visualmente atractivas  
 - Manejo de formularios y sistemas dinámicos  
+- Proyectos web didácticos con enfoque práctico  
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Últimos proyectos trabajados
 
-| Proyecto | Descripción | Demo |
-|----------|-------------|------|
-| **EcoMarket** 🛒 | Tienda naturista en línea con carrito de compras y navegación didáctica | [Ver proyecto](https://github.com/yulisolarioporto-cloud/EcoMarket) |
-| **Flappy Bird Greenfoot** 🐦 | Juego interactivo con dificultad progresiva | [Ver proyecto](https://github.com/yulisolarioporto-cloud/FlappyBirdGreenfoot) |
-| **Sistema Hospitalario** 🏥 | Registro de pacientes, historia clínica y control de admisiones | [Ver proyecto](https://github.com/yulisolarioporto-cloud/SistemaHospital) |
+- **EcoMarket** 🛒 – Tienda naturista en línea con carrito de compras, formulario dinámico y navegación didáctica.  
+- **Flappy Bird en Greenfoot** 🐦 – Juego interactivo con incremento progresivo de dificultad.  
+- **Sistema de gestión hospitalaria** 🏥 – Registro de pacientes, historia clínica electrónica y control de admisiones.  
+- **Aplicación de registro de autos** 🚗 – Permite ingresar y gestionar parámetros de vehículos con XML y Java en Android Studio.  
+- **Proyectos educativos en Greenfoot** 🌿 – Programación de movimientos, contadores y enemigos para Wombat y otros personajes.  
 
 ---
 
-## 🌟 Mis estadísticas en GitHub
+## 📊 Estadísticas de GitHub
 
-![Yuliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulisolarioporto-cloud&show_icons=true&theme=radical&count_private=true)
+![Yuliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulisolarioporto-cloud&show_icons=true&theme=tokyonight&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulisolarioporto-cloud&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulisolarioporto-cloud&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contacto
 
 📧 Correo: yuliana.solari@example.com  
-🔗 LinkedIn: [linkedin.com/in/yulianasolari](https://linkedin.com/in/yulianasolari)  
-🌐 GitHub: [github.com/yulisolarioporto-cloud](https://github.com/yulisolarioporto-cloud)
+🔗 LinkedIn: [linkedin.com/in/yuliana-solari-32b303384](https://www.linkedin.com/in/yuliana-solari-32b303384/)  
+🌐 GitHub: [github.com/yulisolarioporto-cloud](https://github.com/yulisolarioporto-cloud)  
 
 ---
 
-✨ “Aprender cada día es crecer cada día.” ✨  
+✨ *“Cada línea de código es un paso hacia mi crecimiento profesional.”*
