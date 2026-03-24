@@ -1,23 +1,21 @@
-<!-- Banner superior con fondo beige y marrón -->
-<div align="center" style="background-color:#F5F5DC; border-radius:12px; padding:20px;">
-  <h1 style="color:#8B4513;">¡Hola! Soy Yuliana Solari Oporto</h1>
-  <p style="color:#5C4033;">Estudiante de Ingeniería de Software | Apasionada por la programación y la tecnología</p>
+<!-- Banner superior con fondo beige y detalles marrón -->
+<div align="center" style="background: linear-gradient(90deg, #F5F5DC, #E6D8AD); border-radius:12px; padding:25px;">
+  <h1 style="color:#8B4513; font-family: 'Arial', sans-serif;">¡Hola! Soy Yuliana Solari Oporto</h1>
+  <p style="color:#5C4033; font-family: 'Arial', sans-serif;">Estudiante de Ingeniería de Software | Apasionada por la programación y la tecnología</p>
 </div>
 
 ---
 
 ## Sobre mí
-Estudiante de Ingeniería de Software en SENATI.  
-Apasionada por la programación, desarrollo web y aplicaciones móviles.  
+Soy estudiante de Ingeniería de Software en SENATI, apasionada por la programación, desarrollo web y aplicaciones móviles.  
 Me adapto y aprendo rápido, siempre lista para nuevos desafíos.  
-Me gusta la tecnología, innovar y crear soluciones prácticas.  
-Disfruto proyectos didácticos y visualmente atractivos.  
+Disfruto crear soluciones prácticas, didácticas y visualmente atractivas.  
 Mi color favorito es el morado, reflejado en algunos de mis proyectos.
 
 ---
 
 ## Tecnologías y herramientas
-<div align="center">
+<div align="center" style="margin-bottom:20px;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,14 +28,25 @@ Mi color favorito es el morado, reflejado en algunos de mis proyectos.
 ---
 
 ## Últimos proyectos trabajados
+<div style="background-color:#FFF8DC; border-left: 6px solid #8B4513; padding:15px; margin-bottom:15px;">
+  <b>EcoMarket:</b> Tienda naturista en línea con carrito de compras, formulario dinámico y navegación didáctica.
+</div>
 
-| Proyecto | Descripción | Imagen |
-|----------|-------------|--------|
-| **EcoMarket** | Tienda naturista en línea con carrito de compras, formulario dinámico y navegación didáctica. | ![EcoMarket](https://via.placeholder.com/150x100?text=EcoMarket) |
-| **Flappy Bird Greenfoot** | Juego interactivo con incremento progresivo de dificultad. | ![Flappy Bird](https://via.placeholder.com/150x100?text=FlappyBird) |
-| **Sistema Hospitalario** | Registro de pacientes, historia clínica electrónica y control de admisiones. | ![Hospital](https://via.placeholder.com/150x100?text=Hospital) |
-| **Registro de autos** | Gestión de parámetros de vehículos en Android Studio. | ![Autos](https://via.placeholder.com/150x100?text=Autos) |
-| **Proyectos educativos Greenfoot** | Movimientos, contadores y enemigos para personajes como Wombat. | ![Greenfoot](https://via.placeholder.com/150x100?text=Greenfoot) |
+<div style="background-color:#FFF8DC; border-left: 6px solid #8B4513; padding:15px; margin-bottom:15px;">
+  <b>Flappy Bird en Greenfoot:</b> Juego interactivo con incremento progresivo de dificultad.
+</div>
+
+<div style="background-color:#FFF8DC; border-left: 6px solid #8B4513; padding:15px; margin-bottom:15px;">
+  <b>Sistema de gestión hospitalaria:</b> Registro de pacientes, historia clínica electrónica y control de admisiones.
+</div>
+
+<div style="background-color:#FFF8DC; border-left: 6px solid #8B4513; padding:15px; margin-bottom:15px;">
+  <b>Aplicación de registro de autos:</b> Registro y gestión de parámetros de vehículos en Android Studio.
+</div>
+
+<div style="background-color:#FFF8DC; border-left: 6px solid #8B4513; padding:15px; margin-bottom:15px;">
+  <b>Proyectos educativos en Greenfoot:</b> Movimientos, contadores y enemigos para personajes como Wombat.
+</div>
 
 ---
 
@@ -52,15 +61,14 @@ Mi color favorito es el morado, reflejado en algunos de mis proyectos.
 ## Un poquito más
 Siempre busco crecer y aprender algo nuevo.  
 Me encanta la tecnología y explorar innovaciones.  
-La música me inspira tanto como la programación.  
-Mi color favorito es el morado, que se refleja en algunos de mis proyectos.
+Mi color favorito es el morado, reflejado en algunos de mis proyectos.  
 
 ---
 
-<!-- Footer con fondo beige y marrón -->
-<div align="center" style="background-color:#F5F5DC; border-radius:12px; padding:15px; margin-top:20px;">
-  <h3 style="color:#8B4513;">Gracias por visitar mi perfil</h3>
-  <p style="color:#5C4033;">Si deseas colaborar conmigo, puedes escribirme por GitHub.</p>
+<!-- Footer decorativo -->
+<div align="center" style="background: linear-gradient(90deg, #F5F5DC, #E6D8AD); border-radius:12px; padding:20px; margin-top:20px;">
+  <h3 style="color:#8B4513; font-family: 'Arial', sans-serif;">Gracias por visitar mi perfil</h3>
+  <p style="color:#5C4033; font-family: 'Arial', sans-serif;">Si deseas colaborar conmigo, puedes escribirme por GitHub.</p>
 </div>
 
 ---
