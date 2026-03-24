@@ -5,9 +5,18 @@
 
 # ¡Hola! Soy Yuliana Solari Oporto
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Software-B3E5FC?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Programación-Java%20%7C%20JavaScript-E1BEE7?style=for-the-badge&logoColor=white">
+<div align="center" style="margin-bottom:20px;">
+  <img src="https://img.shields.io/badge/Ingeniería%20de%20Software-Carrera-B3E5FC?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Java-B3E5FC?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-JS-E1BEE7?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-HTML-B3E5FC?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-CSS-E1BEE7?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/AndroidStudio-IDE-B3E5FC?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-Hardware-E1BEE7?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Repo-B3E5FC?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Python-E1BEE7?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-Editor-B3E5FC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-DB-E1BEE7?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 ---
@@ -15,19 +24,10 @@
 ## Sobre mí
 
 <div style="background: #F8F9FA; padding:15px; border-radius:12px; margin-bottom:20px;">
-Soy estudiante de **Ingeniería de Software** en SENATI.  
 Apasionada por la **programación, desarrollo web y aplicaciones móviles**.  
 Me adapto y aprendo rápido, siempre lista para nuevos desafíos.  
 Siempre busco **aprender y mejorar** mis habilidades técnicas y creativas.
 </div>
-
----
-
-## Tecnologías y herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,androidstudio,arduino,github,greenfoot,alice3,python,vscode,mysql" />
-</p>
 
 ---
 
@@ -55,11 +55,6 @@ Siempre busco **aprender y mejorar** mis habilidades técnicas y creativas.
     <p>Registro y gestión de parámetros de vehículos en Android Studio.</p>
   </div>
 
-  <div style="background: linear-gradient(90deg, #B3E5FC, #E1F5FE); border-radius:10px; padding:10px; width:250px; text-align:center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://img.shields.io/badge/ProyectosGreenfoot-educativo-B3E5FC?style=flat-square" alt="Greenfoot">
-    <p>Proyectos educativos con movimientos, contadores y enemigos para personajes.</p>
-  </div>
-
 </div>
 
 ---
@@ -67,16 +62,8 @@ Siempre busco **aprender y mejorar** mis habilidades técnicas y creativas.
 ## Estadísticas de GitHub
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yulisolarioporto-cloud&show_icons=true&theme=gruvbox-light&hide_border=true&count_private=true" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulisolarioporto-cloud&layout=compact&langs_count=12&theme=gruvbox-light" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=yulisolarioporto-cloud&show_icons=true&theme=tokyonight&count_private=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulisolarioporto-cloud&layout=compact&theme=tokyonight" width="49%">
 </p>
 
 <p align="center">
