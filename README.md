@@ -1,4 +1,4 @@
-<!-- Banner superior con fondo beige y detalles marrón -->
+<!-- Banner superior con fondo beige y marrón -->
 <div align="center" style="background-color:#F5F5DC; border-radius:12px; padding:20px;">
   <h1 style="color:#8B4513;">¡Hola! Soy Yuliana Solari Oporto</h1>
   <p style="color:#5C4033;">Estudiante de Ingeniería de Software | Apasionada por la programación y la tecnología</p>
@@ -17,19 +17,27 @@ Mi color favorito es el morado, reflejado en algunos de mis proyectos.
 ---
 
 ## Tecnologías y herramientas
-- **Lenguajes:** `Java` `JavaScript` `HTML` `CSS`  
-- **Frameworks y plataformas:** `Android Studio` `Greenfoot` `GitHub` `MySQL`  
-- **Otros:** Desarrollo de interfaces interactivas, formularios dinámicos y proyectos educativos.
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Greenfoot-008000?style=for-the-badge&logo=greenfoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
 ---
 
 ## Últimos proyectos trabajados
 
-- **EcoMarket** – Tienda naturista en línea con carrito de compras, formulario dinámico y navegación didáctica.  
-- **Flappy Bird en Greenfoot** – Juego interactivo con incremento progresivo de dificultad.  
-- **Sistema de gestión hospitalaria** – Registro de pacientes, historia clínica electrónica y control de admisiones.  
-- **Aplicación de registro de autos** – Registro y gestión de parámetros de vehículos en Android Studio.  
-- **Proyectos educativos en Greenfoot** – Movimientos, contadores y enemigos para personajes como Wombat.
+| Proyecto | Descripción | Imagen |
+|----------|-------------|--------|
+| **EcoMarket** | Tienda naturista en línea con carrito de compras, formulario dinámico y navegación didáctica. | ![EcoMarket](https://via.placeholder.com/150x100?text=EcoMarket) |
+| **Flappy Bird Greenfoot** | Juego interactivo con incremento progresivo de dificultad. | ![Flappy Bird](https://via.placeholder.com/150x100?text=FlappyBird) |
+| **Sistema Hospitalario** | Registro de pacientes, historia clínica electrónica y control de admisiones. | ![Hospital](https://via.placeholder.com/150x100?text=Hospital) |
+| **Registro de autos** | Gestión de parámetros de vehículos en Android Studio. | ![Autos](https://via.placeholder.com/150x100?text=Autos) |
+| **Proyectos educativos Greenfoot** | Movimientos, contadores y enemigos para personajes como Wombat. | ![Greenfoot](https://via.placeholder.com/150x100?text=Greenfoot) |
 
 ---
 
