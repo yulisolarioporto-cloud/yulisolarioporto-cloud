@@ -1,86 +1,91 @@
 <!-- BANNER SUPERIOR ESTILO CAPSULE (Celeste pastel) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3E5FC,100:81D4FA&height=200&section=header&text=Yuliana%20Solari%20Oporto&fontSize=35&fontColor=0277BD&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3E5FC,100:E1F5FE&height=120&section=header&text=Bienvenid@%20a%20mi%20perfil&fontColor=0277BD&fontSize=35&fontAlign=50" alt="Banner celeste pastel">
 </p>
+
+# ¡Hola! Soy Yuliana Solari Oporto
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Software-81D4FA?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Programación-Java%20%7C%20JavaScript-4FC3F7?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Desarrollo-Web%20%7C%20AndroidStudio-29B6F6?style=for-the-badge&logoColor=white">
+</div>
 
 ---
 
 ## Sobre mí
-<div style="background-color:#E1F5FE; border-left:6px solid #0288D1; border-radius:8px; padding:15px; margin-bottom:20px;">
-Soy estudiante de Ingeniería de Software en SENATI, apasionada por la programación, desarrollo web y aplicaciones móviles.  
+
+Soy estudiante de **Ingeniería de Software** en SENATI.  
+Apasionada por la **programación, desarrollo web y aplicaciones móviles**.  
 Me adapto y aprendo rápido, siempre lista para nuevos desafíos.  
 Disfruto crear soluciones prácticas, didácticas y visualmente atractivas.  
-Mi color favorito es el morado, reflejado en algunos de mis proyectos.
-</div>
+Mi color favorito es el **celeste pastel**, reflejado en algunos de mis proyectos.
 
 ---
 
 ## Tecnologías y herramientas
-<div align="center" style="margin-bottom:30px;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Greenfoot-008000?style=for-the-badge&logo=greenfoot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,androidstudio,greenfoot,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## Últimos proyectos trabajados
-<div style="display:flex; flex-direction:column; gap:15px;">
+## Últimos proyectos
 
-  <div style="background: linear-gradient(90deg, #E1F5FE, #B3E5FC); border-left:6px solid #0288D1; border-radius:10px; padding:15px;">
-    <b>EcoMarket:</b> Tienda naturista en línea con carrito de compras, formulario dinámico y navegación didáctica.
-  </div>
+- <a href="https://github.com/yulisolarioporto-cloud/EcoMarket"><img src="https://img.shields.io/badge/EcoMarket-Web-81D4FA?style=flat-square"></a>  
+  Tienda naturista en línea con carrito de compras, formulario dinámico y navegación didáctica.
 
-  <div style="background: linear-gradient(90deg, #E1F5FE, #B3E5FC); border-left:6px solid #0288D1; border-radius:10px; padding:15px;">
-    <b>Flappy Bird en Greenfoot:</b> Juego interactivo con incremento progresivo de dificultad.
-  </div>
+- <a href="https://github.com/yulisolarioporto-cloud/FlappyBirdGreenfoot"><img src="https://img.shields.io/badge/FlappyBird-Greenfoot-4FC3F7?style=flat-square"></a>  
+  Juego interactivo con incremento progresivo de dificultad.
 
-  <div style="background: linear-gradient(90deg, #E1F5FE, #B3E5FC); border-left:6px solid #0288D1; border-radius:10px; padding:15px;">
-    <b>Sistema de gestión hospitalaria:</b> Registro de pacientes, historia clínica electrónica y control de admisiones.
-  </div>
+- <a href="https://github.com/yulisolarioporto-cloud/SistemaHospitalario"><img src="https://img.shields.io/badge/SistemaHospitalario-Java-29B6F6?style=flat-square"></a>  
+  Registro de pacientes, historia clínica electrónica y control de admisiones.
 
-  <div style="background: linear-gradient(90deg, #E1F5FE, #B3E5FC); border-left:6px solid #0288D1; border-radius:10px; padding:15px;">
-    <b>Aplicación de registro de autos:</b> Registro y gestión de parámetros de vehículos en Android Studio.
-  </div>
+- <a href="https://github.com/yulisolarioporto-cloud/RegistroAutos"><img src="https://img.shields.io/badge/RegistroAutos-AndroidStudio-81D4FA?style=flat-square"></a>  
+  Registro y gestión de parámetros de vehículos en Android Studio.
 
-  <div style="background: linear-gradient(90deg, #E1F5FE, #B3E5FC); border-left:6px solid #0288D1; border-radius:10px; padding:15px;">
-    <b>Proyectos educativos en Greenfoot:</b> Movimientos, contadores y enemigos para personajes como Wombat.
-  </div>
-
-</div>
-
----
-
-## Estadísticas de GitHub
-<div align="center" style="margin-top:20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yulisolarioporto-cloud&show_icons=true&theme=blue-green&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulisolarioporto-cloud&layout=compact&theme=blue-green" width="48%">
-</div>
+- <a href="https://github.com/yulisolarioporto-cloud/ProyectosGreenfoot"><img src="https://img.shields.io/badge/Greenfoot-educativo-4FC3F7?style=flat-square"></a>  
+  Proyectos educativos con movimientos, contadores y enemigos para personajes.
 
 ---
 
 ## Un poquito más
-<div style="background-color:#E1F5FE; border-left:6px solid #0288D1; border-radius:8px; padding:15px; margin-bottom:20px;">
+
 Siempre busco crecer y aprender algo nuevo.  
 Me encanta la tecnología y explorar innovaciones.  
-Mi color favorito es el morado, reflejado en algunos de mis proyectos.
-</div>
+Mi color favorito es el **celeste pastel**, reflejado en algunos de mis proyectos.  
 
 ---
 
-<!-- Footer elegante celeste -->
-<div align="center" style="background: linear-gradient(90deg, #0288D1, #81D4FA); border-radius:16px; padding:25px; color:white; margin-top:30px;">
-  <h3 style="font-family: 'Segoe UI', sans-serif;">Gracias por visitar mi perfil</h3>
-  <p style="font-family: 'Segoe UI', sans-serif;">Si deseas colaborar conmigo, puedes escribirme por GitHub o LinkedIn.</p>
+## Estadísticas de GitHub
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yulisolarioporto-cloud&show_icons=true&theme=blue-green&hide_border=true" height="165"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulisolarioporto-cloud&layout=compact&langs_count=8&theme=blue-green" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3E5FC,100:E1F5FE&height=80&section=footer&fontColor=0277BD" alt="Banner celeste pastel footer">
+</p>
+
+<div align="center">
+  <b>Gracias por visitar mi perfil</b><br>
+  <i>¿Te gustaría colaborar conmigo? Escríbeme por GitHub o LinkedIn</i>
 </div>
 
 ---
 
 ## Contacto
+
 Correo: yuliana.solari@example.com  
 LinkedIn: [linkedin.com/in/yuliana-solari-32b303384](https://www.linkedin.com/in/yuliana-solari-32b303384/)  
 GitHub: [github.com/yulisolarioporto-cloud](https://github.com/yulisolarioporto-cloud)
