@@ -6,9 +6,13 @@
 <!-- TÍTULO CENTRADO -->
 <h1 align="center">¡Hola! Soy Yuliana Solari Oporto</h1>
 
+<!-- INGENIERÍA DE SOFTWARE CON RECTÁNGULOS -->
 <div align="center" style="margin-bottom:20px;">
-  <img src="https://img.shields.io/badge/Ingeniería%20de%20Software-Carrera-B3E5FC?style=for-the-badge&logoColor=white">
-  <p>Diseño, desarrollo web, aplicaciones móviles y soluciones tecnológicas</p>
+  <div style="background: #B3E5FC; display:inline-block; padding:8px 15px; border-radius:8px; margin:5px;">Ingeniería de Software</div>
+  <div style="background: #E1F5FE; display:inline-block; padding:8px 15px; border-radius:8px; margin:5px;">Diseño</div>
+  <div style="background: #B3E5FC; display:inline-block; padding:8px 15px; border-radius:8px; margin:5px;">Desarrollo Web</div>
+  <div style="background: #E1F5FE; display:inline-block; padding:8px 15px; border-radius:8px; margin:5px;">Aplicaciones Móviles</div>
+  <div style="background: #B3E5FC; display:inline-block; padding:8px 15px; border-radius:8px; margin:5px;">Soluciones Tecnológicas</div>
 </div>
 
 ---
@@ -44,25 +48,25 @@ Siempre busco **aprender y mejorar** mis habilidades técnicas y creativas.
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-  <div style="background: linear-gradient(135deg, #B3E5FC, #E1F5FE); border-radius:12px; padding:20px; width:260px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px) scale(1.05)'" onmouseout="this.style.transform='translateY(0) scale(1)'">
+  <div style="background: linear-gradient(135deg, #B3E5FC, #E1F5FE); border-radius:12px; padding:20px; width:260px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: all 0.3s;" onmouseover="this.style.background='linear-gradient(135deg, #81D4FA, #B3E5FC)'; this.style.transform='translateY(-5px) scale(1.05)'" onmouseout="this.style.background='linear-gradient(135deg, #B3E5FC, #E1F5FE)'; this.style.transform='translateY(0) scale(1)'">
     <h3>🛒 EcoMarket</h3>
     <img src="https://img.shields.io/badge/EcoMarket-Web-B3E5FC?style=flat-square" alt="EcoMarket">
     <p>Tienda naturista en línea con carrito de compras y formulario dinámico.</p>
   </div>
 
-  <div style="background: linear-gradient(135deg, #E1BEE7, #F3E5F5); border-radius:12px; padding:20px; width:260px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px) scale(1.05)'" onmouseout="this.style.transform='translateY(0) scale(1)'">
+  <div style="background: linear-gradient(135deg, #E1BEE7, #F3E5F5); border-radius:12px; padding:20px; width:260px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: all 0.3s;" onmouseover="this.style.background='linear-gradient(135deg, #CE93D8, #E1BEE7)'; this.style.transform='translateY(-5px) scale(1.05)'" onmouseout="this.style.background='linear-gradient(135deg, #E1BEE7, #F3E5F5)'; this.style.transform='translateY(0) scale(1)'">
     <h3>🎮 Flappy Bird</h3>
     <img src="https://img.shields.io/badge/FlappyBird-Greenfoot-E1BEE7?style=flat-square" alt="FlappyBird">
     <p>Juego interactivo con incremento progresivo de dificultad en Greenfoot.</p>
   </div>
 
-  <div style="background: linear-gradient(135deg, #B3E5FC, #E1F5FE); border-radius:12px; padding:20px; width:260px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px) scale(1.05)'" onmouseout="this.style.transform='translateY(0) scale(1)'">
+  <div style="background: linear-gradient(135deg, #B3E5FC, #E1F5FE); border-radius:12px; padding:20px; width:260px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: all 0.3s;" onmouseover="this.style.background='linear-gradient(135deg, #81D4FA, #B3E5FC)'; this.style.transform='translateY(-5px) scale(1.05)'" onmouseout="this.style.background='linear-gradient(135deg, #B3E5FC, #E1F5FE)'; this.style.transform='translateY(0) scale(1)'">
     <h3>🏥 Sistema Hospitalario</h3>
     <img src="https://img.shields.io/badge/SistemaHospitalario-Java-B3E5FC?style=flat-square" alt="SistemaHospitalario">
     <p>Registro de pacientes, historia clínica electrónica y control de admisiones.</p>
   </div>
 
-  <div style="background: linear-gradient(135deg, #E1BEE7, #F3E5F5); border-radius:12px; padding:20px; width:260px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px) scale(1.05)'" onmouseout="this.style.transform='translateY(0) scale(1)'">
+  <div style="background: linear-gradient(135deg, #E1BEE7, #F3E5F5); border-radius:12px; padding:20px; width:260px; text-align:center; box-shadow: 2px 4px 16px rgba(0,0,0,0.12); transition: all 0.3s;" onmouseover="this.style.background='linear-gradient(135deg, #CE93D8, #E1BEE7)'; this.style.transform='translateY(-5px) scale(1.05)'" onmouseout="this.style.background='linear-gradient(135deg, #E1BEE7, #F3E5F5)'; this.style.transform='translateY(0) scale(1)'">
     <h3>🚗 Registro de Autos</h3>
     <img src="https://img.shields.io/badge/RegistroAutos-AndroidStudio-E1BEE7?style=flat-square" alt="RegistroAutos">
     <p>Registro y gestión de parámetros de vehículos en Android Studio.</p>
